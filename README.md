@@ -1,6 +1,3 @@
-Sure! Here's **everything in a single markdown block** for your `README.md` file — just copy and paste it as-is:
-
-````markdown
 # Graph-Based Intrusion Detection System
 
 ## Overview
@@ -57,7 +54,7 @@ pip install pandas gradio numpy d3
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository:**
 
@@ -167,7 +164,6 @@ git push origin feature-branch
 
 5. Submit a Pull Request.
 
-
 ---
 
 ##  Acknowledgments
@@ -179,6 +175,3 @@ git push origin feature-branch
 ---
 
 > ⭐ Don't forget to star the repo if you find it useful!
-````
-
-
