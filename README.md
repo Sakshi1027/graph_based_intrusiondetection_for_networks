@@ -80,7 +80,7 @@ Put the dataset (`Wednesday-workingHours.pcap_ISCX.csv`) into the appropriate pa
 4. **Run the notebook:**
 
 ```bash
-jupyter notebook "daa (2).ipynb"
+ google colab "daa (2).ipynb"
 ```
 
 ---
@@ -121,11 +121,10 @@ jupyter notebook "daa (2).ipynb"
 ```
 graph-based-intrusion-detection/
 ├── daa (2).ipynb                        # Main Jupyter notebook
-├── dataset/
-│   └── Wednesday-workingHours.pcap_ISCX.csv  # CICIDS2017 dataset file
+├── gcn_model_weights.pth
 ├── requirements.txt                    # List of dependencies
 ├── README.md                           # This file
-└── graphs/                             # Placeholder images (graph.png, graph1.png, etc.)
+└── network.html                        #simulation
 ```
 
 ---
